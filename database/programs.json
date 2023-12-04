@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "653d52ce00f0a81e06834086"
+  },
+  "artist": {
+    "$oid": "653dad5000f0a81e068340c1"
+  },
+  "date": "2023-10-27T18:23:00Z",
+  "duration": 3600,
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1677346909/events/categories/ferias_z1ssuj.jpg",
+  "name": "Track 1",
+  "description": "Descripcion del Track numero uno",
+  "audio": "https://res.cloudinary.com/duczoedrf/video/upload/v1697928667/tracks/az4csgistgakzpdqqbvi.mp3"
+},
+{
+  "_id": {
+    "$oid": "653d52e500f0a81e06834087"
+  },
+  "artist": {
+    "$oid": "653dad6c00f0a81e068340c2"
+  },
+  "date": "2023-10-29T19:23:00Z",
+  "duration": 3600,
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1677346909/events/categories/ferias_z1ssuj.jpg",
+  "name": "Track 2",
+  "description": "Descripcion del Track numero dos",
+  "audio": "https://res.cloudinary.com/duczoedrf/video/upload/v1697928667/tracks/az4csgistgakzpdqqbvi.mp3"
+},
+{
+  "_id": {
+    "$oid": "653d52ff00f0a81e06834088"
+  },
+  "artist": {
+    "$oid": "653dad7700f0a81e068340c3"
+  },
+  "date": "2023-10-30T22:00:00Z",
+  "duration": 3600,
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1677346909/events/categories/ferias_z1ssuj.jpg",
+  "name": "Track 3",
+  "description": "Descripcion del Track numero tres",
+  "audio": "https://res.cloudinary.com/duczoedrf/video/upload/v1697928667/tracks/az4csgistgakzpdqqbvi.mp3"
+},
+{
+  "_id": {
+    "$oid": "653d531100f0a81e06834089"
+  },
+  "artist": {
+    "$oid": "653dad9900f0a81e068340c4"
+  },
+  "date": "2023-11-01T23:00:00Z",
+  "duration": 3600,
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1677346909/events/categories/ferias_z1ssuj.jpg",
+  "name": "Track 4",
+  "description": "Descripcion del Track numero cuatro",
+  "audio": "https://res.cloudinary.com/duczoedrf/video/upload/v1697928667/tracks/az4csgistgakzpdqqbvi.mp3"
+}]

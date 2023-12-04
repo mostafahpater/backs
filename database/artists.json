@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "653dad5000f0a81e068340c1"
+  },
+  "name": "Facundo Cabral",
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1698618134/artists/artists06_ijyhe3.jpg",
+  "description": "Descripcion del Dj 1",
+  "programs": [
+    {
+      "$oid": "653d52ce00f0a81e06834086"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653dad6c00f0a81e068340c2"
+  },
+  "name": "Lucia Perez",
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1698618134/artists/artists04_i4fndk.jpg",
+  "description": "Descripcion del Dj 2",
+  "programs": [
+    {
+      "$oid": "653d52ce00f0a81e06834086"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653dad7700f0a81e068340c3"
+  },
+  "name": "Yesika Gonzales",
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1698618134/artists/artists05_cde6so.jpg",
+  "description": "Descripcion del Dj 3",
+  "programs": [
+    {
+      "$oid": "653d52ff00f0a81e06834088"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653dad9900f0a81e068340c4"
+  },
+  "name": "Seba Rodriguez",
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1698618132/artists/artists03_oshlns.jpg",
+  "description": "Descripcion del Dj 4",
+  "programs": [
+    "653d531100f0a81e06834089"
+  ]
+}]

@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "63f646532a8a9d8580046ad0"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": true,
+  "nombre": "Evento Central",
+  "descripcion": "descripcion del evento b=numero 1, van mas de 100 caracteres y menos de 2500. Por el lorem del ipsum del lord y la madre en coche",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-03-15T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.91,
+    "longitude": -56.16
+  }
+},
+{
+  "_id": {
+    "$oid": "63f6465d2a8a9d8580046ad1"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675863710/events/ev01_kgz00v.jpg",
+  "habilitado": true,
+  "nombre": "evento Sur",
+  "descripcion": "descripcion del evento debug",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-03-09T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.92,
+    "longitude": -56.16
+  }
+},
+{
+  "_id": {
+    "$oid": "63f646c9cf1995d259d91980"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675863710/events/ev04_kt29co.webp",
+  "habilitado": true,
+  "nombre": "evento norte",
+  "descripcion": "descripcion del evento debug",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-09-09T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.9,
+    "longitude": -56.16
+  }
+},
+{
+  "_id": {
+    "$oid": "63f64705ea6982d41ca93ba8"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675863710/events/ev04_kt29co.webp",
+  "habilitado": true,
+  "nombre": "Evento Oeste",
+  "descripcion": "descripcion del evento debug",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-09-18T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.91,
+    "longitude": -56.17
+  }
+},
+{
+  "_id": {
+    "$oid": "63f6471ac66433d4a29f2fe5"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675863710/events/ev02_seira5.webp",
+  "habilitado": true,
+  "nombre": "Evento Este",
+  "descripcion": "descripcion del evento debug",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52764a1fa177e2b0a6e8b"
+  },
+  "fecha_inicio": {
+    "$date": "2023-09-19T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.91,
+    "longitude": -56.15
+  }
+},
+{
+  "_id": {
+    "$oid": "63f6558db0d7e5d6505f8752"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": true,
+  "nombre": "Evento Norte + 0.1",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-09-27T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.81,
+    "longitude": -56.16
+  }
+},
+{
+  "_id": {
+    "$oid": "63f65855b0d7e5d6505f8754"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": true,
+  "nombre": "Evento Oeste - 0.05",
+  "descripcion": "descripcion del evento debug",
+  "categoria": {
+    "$oid": "63e97ba6579c2d3bb6386aad"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2030-08-31T15:30:00.000Z"
+  },
+  "buy_link": "https:://www.passline.com.uy",
+  "__v": 0,
+  "location": {
+    "latitude": -34.91,
+    "longitude": -56.21
+  }
+},
+{
+  "_id": {
+    "$oid": "641ae3936dd0f15cd7178c21"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": false,
+  "nombre": "",
+  "descripcion": "nueva descripcion del evento",
+  "categoria": {
+    "$oid": "63e97b6a579c2d3bb6386aac"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-12-10T03:00:00.000Z"
+  },
+  "__v": 0,
+  "location": {
+    "latitude": -33.14,
+    "longitude": -55.14
+  }
+},
+{
+  "_id": {
+    "$oid": "641ae40007bbde5d1736c652"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": false,
+  "descripcion": "nueva descripcion del evento",
+  "categoria": {
+    "$oid": "63e97b6a579c2d3bb6386aac"
+  },
+  "organizador": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "fecha_inicio": {
+    "$date": "2023-12-10T03:00:00.000Z"
+  },
+  "__v": 0,
+  "location": {
+    "latitude": -34.81,
+    "longitude": -56.24
+  }
+},
+{
+  "_id": {
+    "$oid": "641ae525e50c0c5de35f6a4f"
+  },
+  "img": "https://res.cloudinary.com/duczoedrf/image/upload/v1675864107/events/ev07_uuxbs2.jpg",
+  "habilitado": false,
+  "nombre": "nombre del evento 10",
+  "location": {
+    "latitude": -34.91,
+    "longitude": -56.14
+  }
+}]

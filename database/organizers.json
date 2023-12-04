@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "63f52731a1fa177e2b0a6e8a"
+  },
+  "habilitado": false,
+  "nombre": "Key Producciones",
+  "descripcion": "nueva descripcion del organizeddebe haber mas de 100 caracteres y menos 2460 nueva descripcion del organizeddebe haber mas de 100 caracteres y menos 2460",
+  "__v": 0,
+  "categorias": [
+    {
+      "$oid": "63e97dcb18e3c53c66a181d7"
+    },
+    {
+      "$oid": "63e97ba6579c2d3bb6386aad"
+    },
+    {
+      "$oid": "63e97e6e18e3c53c66a181d9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63f52764a1fa177e2b0a6e8b"
+  },
+  "habilitado": false,
+  "nombre": "Key Producciones 2",
+  "descripcion": "Descripcion de Key Producciones 20\n",
+  "__v": 0,
+  "categorias": [
+    {
+      "$oid": "63e97b6a579c2d3bb6386aac"
+    },
+    {
+      "$oid": "63e97ba6579c2d3bb6386aad"
+    },
+    {
+      "$oid": "63e97c5f579c2d3bb6386aae"
+    },
+    {
+      "$oid": "63e97cde18e3c53c66a181d6"
+    },
+    {
+      "$oid": "63e97dcb18e3c53c66a181d7"
+    },
+    {
+      "$oid": "63e97e3718e3c53c66a181d8"
+    },
+    {
+      "$oid": "63e97e6e18e3c53c66a181d9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "63f527cfa1fa177e2b0a6e8c"
+  },
+  "habilitado": true,
+  "nombre": "Manija Producciones",
+  "descripcion": "Descripcion de Manija",
+  "__v": 0,
+  "categorias": [
+    {
+      "$oid": "63e97e3718e3c53c66a181d8"
+    },
+    {
+      "$oid": "63e97ba6579c2d3bb6386aad"
+    },
+    {
+      "$oid": "63e97e3718e3c53c66a181d8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650dd52ecba3781cd6f621b0"
+  },
+  "categorias": [
+    {
+      "$oid": "63e97cde18e3c53c66a181d6"
+    }
+  ],
+  "habilitado": false,
+  "nombre": "asas",
+  "descripcion": "assas",
+  "__v": 0
+}]
